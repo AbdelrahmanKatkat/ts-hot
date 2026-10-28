@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+*.onnx
+weights/
+lightning_logs/
+
+# downloaded datasets and analysis cache
+data/
+
+
+# research
+research/
+
+
+# assistants
+assets
+.claude
+.agents
+AGENTS.md
+CLAUDE.md
